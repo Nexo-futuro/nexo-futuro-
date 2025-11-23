@@ -21,27 +21,47 @@ Desenvolver uma aplicação front-end que se integre perfeitamente com a API des
 
 ## 📁 Estrutura do Projeto
 nexo-futuro/
+
 ├── public/
-│ ├── favicon.ico
-│ └── images/ # Imagens e ícones
+
+│ ├── images/ # Imagens e ícones
+
 ├── src/
+
 │ ├── components/ # Componentes reutilizáveis
+
 │ ├── pages/ # Páginas da aplicação
+
 │ │ ├── Home/
+
 │ │ ├── Integrantes/
+
 │ │ ├── Sobre/
+
 │ │ ├── FAQ/
+
 │ │ └── Contato/
+
 │ ├── router/ # Configuração de rotas
+
 │ ├── services/ # Integração com APIs
+
 │ ├── types/ # Definições TypeScript
+
 │ ├── App.tsx
+
 │ ├── main.tsx
+
 │ └── index.css
+
 ├── package.json
+
 ├── tailwind.config.js
+
 ├── tsconfig.json
+
 ├── vite.config.ts
+
 └── README.md
 
 text
@@ -66,7 +86,7 @@ text
 
 ## 📦 Dependências Principais
 
-```json
+
 {
   "react": "^18.2.0",
   "react-dom": "^18.2.0",
@@ -75,6 +95,8 @@ text
   "tailwindcss": "^3.3.0",
   "react-hot-toast": "^2.4.1"
 }
+
+
 🏃‍♂️ Como Executar
 Pré-requisitos
 Node.js (versão 16 ou superior)
@@ -106,7 +128,7 @@ yarn dev
 Acesse a aplicação
 
 text
-http://localhost:3000
+http://localhost:5173
 Build para Produção
 bash
 npm run build
@@ -114,10 +136,11 @@ npm run build
 pnpm run build
 # ou
 yarn build
+
 🌐 Deploy
 O projeto está implantado na Vercel e pode ser acessado através do link:
 
-🔗 URL de Produção: https://nexo-futuro.vercel.app <!-- Substitua pelo link real -->
+🔗 URL de Produção: [https://nexo-futuro.vercel.app](http://localhost:5173/)
 
 🔗 Integração com API
 A aplicação consome a API desenvolvida na disciplina de Domain Drive Design Using Java, seguindo as melhores práticas de consumo de APIs RESTful.
@@ -147,23 +170,20 @@ sm	640px - 767px	Tablet Pequeno
 md	768px - 1023px	Tablet
 lg	1024px - 1279px	Laptop
 xl	1280px+	Desktop
+
 👥 Integrantes do Projeto
 Nome	RM	Turma	Contribuição
-[Nome Completo 1]	[RM]	[Turma]	Front-end, Integração API
-[Nome Completo 2]	[RM]	[Turma]	Design, Componentes
-[Nome Completo 3]	[RM]	[Turma]	Roteamento, Deploy
+Gustavo Cordeiro de Souza  RM: 565514  Turma: 1TDSPO - Front-end, Integração API, Roteamento
+Pedro dos Anjos Viana Moraes	RM: 563832	Turma: 1TDSPO - Design, Componentes, Deploy
+
 📊 Versionamento
 GitHub
 🔗 Repositório: https://github.com/seu-usuario/nexo-futuro <!-- Substitua pelo link real -->
 
 Commits por Integrante
-[Integrante 1]: 5+ commits
+[Pedro dos Anjos Viana Moraes]: 1
 
-[Integrante 2]: 5+ commits
-
-[Integrante 3]: 5+ commits
-
-Total: 15+ commits
+Total: 1
 
 🎥 Vídeo de Apresentação
 📺 Assista ao vídeo no YouTube: Link do Vídeo <!-- link  -->
