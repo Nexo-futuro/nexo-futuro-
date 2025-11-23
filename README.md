@@ -178,7 +178,7 @@ Pedro dos Anjos Viana Moraes	RM: 563832	Turma: 1TDSPO - Design, Componentes, Dep
 
 📊 Versionamento
 GitHub
-🔗 Repositório: https://github.com/seu-usuario/nexo-futuro <!-- Substitua pelo link real -->
+🔗 Repositório: https://github.com/Nexo-futuro/nexo-futuro-.git
 
 Commits por Integrante
 [Pedro dos Anjos Viana Moraes]: 1
